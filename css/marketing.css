@@ -1,0 +1,83 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+    font-weight: 300;
+    line-height: 1.428571429;
+    color: #3c5b68;
+    background-color: #fff;
+}
+
+.main{
+    width: 100%;
+    margin: 0 auto;
+}
+.logo{
+    float: left;
+    margin-right: 5px;
+}
+ul{
+    
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+ul li{
+    float: left;
+    padding: 10px;
+    text-align: center;
+    font-size: 14px;
+    background-color: #ffff;
+    border: 1px solid lightgray;
+    border-top: none;
+    border-bottom: none;
+}
+ul li a
+{
+    color: black;
+    display: block;
+    text-decoration: none;
+}
+ul li a:hover
+{
+    background-color: gray transparent;
+}
+
+.centralniSadrzaj{
+    width: 100%;
+    padding: 20px;
+}
+
+.centralniDeo{
+  width: 50%;
+  margin-left: 25%;
+}
+#slika{
+    margin-left: 10px;
+}
+.text{
+    text-align: center;
+}
+
+.mapa{
+    margin-left: 280px;
+}
+
+#lupa{
+    float: right;
+    margin-right: 40px;
+    margin-top: 10px;
+}
+#bot{
+    margin-top: 10px;
+}
+
+.midle{
+    text-align: center;
+}
+
+.ikone{
+    float: right;
+}
+.midle{
+    text-align: center;
+}
